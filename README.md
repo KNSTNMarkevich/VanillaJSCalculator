@@ -2,4 +2,4 @@
 
 # Calculator on JS without any libraries. 
 
-# The calculator can perform operations with fractional and negative values
+# The calculator can made operations with fractional and negative values
